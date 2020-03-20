@@ -8,4 +8,4 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql:///mp?serverTimezone=Asia/Shanghai
+    url: jdbc:mysql:///mp123?serverTimezone=Asia/Shanghai

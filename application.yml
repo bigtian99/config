@@ -1,5 +1,5 @@
 test:
-  name: Bigtian1
+  name: Bigtian
 spring:
   application:
     name: cloud-provider
